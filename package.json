@@ -2,7 +2,7 @@
     "name": "react-course",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://joyao.github.io/Meetup_React",
+    "homepage": "https://joyao.github.io/Meetup_React/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.9",
         "@testing-library/react": "^11.2.5",
